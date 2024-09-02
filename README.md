@@ -1,8 +1,8 @@
 # YouTube Video Shortifier
 
-![GitHub repo size](https://img.shields.io/github/repo-size/KhamisiKibet/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/KhamisiKibet/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/KhamisiKibet/vcard-personal-portfolio?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/KhamisiKibet/YouTube-Video-Shortifier)
+![GitHub stars](https://img.shields.io/github/stars/KhamisiKibet/YouTube-Video-Shortifier?style=social)
+![GitHub forks](https://img.shields.io/github/forks/KhamisiKibet/YouTube-Video-Shortifier?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KhamisiKibet_?style=social)](https://twitter.com/intent/follow?screen_name=KhamisiKibet_)
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
