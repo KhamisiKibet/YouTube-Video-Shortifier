@@ -1,0 +1,9 @@
+google-api-python-client
+pytube
+moviepy
+python-dotenv
+requests
+subprocess32
+Pillow
+numpy
+scikit-image
