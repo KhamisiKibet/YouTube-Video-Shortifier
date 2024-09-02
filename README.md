@@ -33,8 +33,8 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/yt-video-shortifier.git
-   cd yt-video-shortifier
+   git clone https://github.com/KhamisiKibet/YouTube-Video-Shortifier.git
+   cd YouTube-Video-Shortifier
    ```
 
 2. **Install Dependencies**
