@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/KhamisiKibet/YouTube-Video-Shortifier)
 ![GitHub stars](https://img.shields.io/github/stars/KhamisiKibet/YouTube-Video-Shortifier?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/KhamisiKib/YouTube-Video-Shortifier?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/KhamisiKibet?style=social)](https://twitter.com/intent/follow?screen_name=KhamisiKib)
+[![Twitter Follow](https://img.shields.io/twitter/follow/KhamisiKibet?style=social)](https://twitter.com/intent/follow?screen_name=KhamisiKibet)
 [![YouTube Video Views](https://img.shields.io/youtube/views/JK-B-CT34EU?style=social)](https://youtu.be/JK-B-CT34EU)
 
 ## Overview
